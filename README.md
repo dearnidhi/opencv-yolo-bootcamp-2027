@@ -1,4 +1,4 @@
-# OpenCV Crash Course: 2026 Edition
+# OpenCV Crash Course: 2027 Edition
 
 Short, modern OpenCV course. No camera or Raspberry Pi needed.
 
